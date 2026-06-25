@@ -3,7 +3,7 @@
 title: "Pasta mit Rahmsauce und Ofenlachs"
 date: 2026-06-18
 draft: false
-description: "."
+description: "Ein schnelles Gericht mit würzigem Ofenlachs und Rahmsauce. Für wenn man nicht viel Zeit hat aber trotzdem etwas köstliches essen will."
 image: "../docs/images/recipes/pasta-mit-lachs-und-rahmsauce.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
@@ -20,8 +20,8 @@ cook_time: "15 Min."
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
   - "700g Pasta"
-  - "4 Lachsfilet"
-  - "2 Klein gewürfelte Zwiebeln"
+  - "4 Lachsfilets"
+  - "2 kleingewürfelte Zwiebeln"
   - "4 gehackte Knoblauchzehen"
   - "750ml Rahm"
   - "Käse nach Wahl"
@@ -34,11 +34,11 @@ ingredients:
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
   - "Den Backofen auf 180 °C Umluft vorheizen. 2 Esslöffel von dem Öl in einer Schüssel mit den Gewürzen mischen und auf den Lachs mit einem Backpinsel streichen, auf ein mit Backpapier belegtes Blech legen und 15-20 Minuten backen."
-  - "Während der Lachs im Ofen ist, die Pasta in Salzwasser al dente kochen. Schauen sie das die Pasta von dem Wasser reichlich bedeckt ist. Falls sie Käse hinzufügen würde ich empfehlen 200ml Pastawasser aufbewahren."
+  - "Während der Lachs im Ofen ist, die Pasta in Salzwasser al dente kochen. Schauen Sie, dass die Pasta von dem Wasser reichlich bedeckt ist. Falls Sie Käse hinzufügen würden, empfehle ich, 200 ml Pastawasser aufzubewahren."
   - "Das restliche Olivenöl in einem grossen Topf auf mittlere Hitze erhitzen. Die Zwiebeln dünsten bis sie glassig sind und den gehackten Knoblauch kurz mitbraten."
-  - "Reduzieren Sie die Hitze zu Mittlere-Tiefe Hitze. Die gewünschten Gewürze hinzufügen und mischen, den Rahm hinzufügen nd die Sauce 4–5 Minuten leicht köcheln lassen und die Zitronensaft hinzufügen"
+  - "Reduzieren Sie die Hitze auf mittlere-niedrige Hitze. Die gewünschten Gewürze hinzufügen und mischen, den Rahm hinzufügen und die Sauce 4–5 Minuten leicht köcheln lassen, dann den Zitronensaft hinzufügen."
   - "Den fertigen Lachs mit zwei Gabeln zerteilen und in die Sauce reinmischen."
-  - "Die gekochte Pasta zur Sauce geben und alles gut mischen. Falls nötig, etwas Nudelwasser hinzufügen, Falls die Sauce zu dick ist wenn sie Parmesan hinzugefügt haben können sie teile von dem Pastawasser hinzufügen bis es die belibige Konsistenz hat."
+  - "Die gekochte Pasta zur Sauce geben und alles gut mischen. Falls nötig, etwas Nudelwasser hinzufügen. Falls die Sauce zu dick ist, können Sie Teile des Pastawassers hinzufügen, bis sie die gewünschte Konsistenz hat."
 ---
 
 > «Dieses Gericht mache ich seit Jahren und es ist sehr empfehlenswert.» — Latifa
@@ -50,7 +50,7 @@ Dieses Rezept eignet sich für ein schnelles Mittag- oder Abendessen. Während d
 ## Tipps
 
 - Für das beste Resultat empfehle ich Gouda und Parmesan für die Käse.
-- Das Rezept lässt sich sehr einfach verbessern mit variationen von Gewürze. Ich empfehle eine Grill Gewürz mischung ansonsten sind meine Wahlen: Oregano, Paprika, Kreuzkümmel, Knoblauch pulver, Thymian & Weisser Pfeffer
+- Das Rezept lässt sich sehr einfach verbessern mit variationen von Gewürzen. Ich empfehle eine Grill Gewürzmischung ansonsten sind meine Wahlen: Oregano, Paprika, Kreuzkümmel, Knoblauch pulver, Thymian & Weisser Pfeffer
 - Ich empfehle frisch geriebener Parmesan da die Sauce körnig werden könnte weil die meisten verpackten haben pulver drauf.
 - Tagliatelle eignet sich am besten für dieses Rezept aber alles andere kann auch verwendet werden.
 
